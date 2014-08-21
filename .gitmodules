@@ -1,0 +1,3 @@
+[submodule "caliper"]
+	path = caliper
+	url = https://code.google.com/p/caliper
